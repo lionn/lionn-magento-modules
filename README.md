@@ -4,6 +4,10 @@ Repositório central dos módulos e extensões desenvolvidos pela Lionn Tecnolog
 
 O objetivo deste projeto é centralizar o desenvolvimento, a manutenção e a evolução das extensões próprias, permitindo o seu reaproveitamento em diferentes projetos Magento 2, reduzindo duplicações de código e facilitando a manutenção.
 
+---
+
+<br></br>
+
 ## Objetivos
 
 - Centralizar os módulos desenvolvidos pela Lionn.
@@ -12,6 +16,10 @@ O objetivo deste projeto é centralizar o desenvolvimento, a manutenção e a ev
 - Padronizar a estrutura e a organização das extensões.
 - Simplificar as correções, melhorias e atualizações.
 - Documentar e manter o histórico do desenvolvimento.
+
+---
+
+<br></br>
 
 ## Organização
 
@@ -28,6 +36,10 @@ lionn-magento-modules/
 ```
 
 Cada módulo possui a sua própria estrutura e os seus arquivos de configuração, implementação e documentação.
+
+---
+
+<br></br>
 
 ## Projetos
 
@@ -49,17 +61,29 @@ Após a validação de uma atualização, os arquivos correspondentes podem ser 
 
 Personalizações específicas devem ser evitadas sempre que possível, priorizando o reaproveitamento da implementação original.
 
+---
+
+<br></br>
+
 ## Compatibilidade
 
 A compatibilidade de cada extensão depende da versão do Magento 2 (Open Source) / Adobe Commerce e dos requisitos técnicos definidos em seu respectivo diretório.
 
 Consulte a documentação individual de cada módulo para obter informações sobre instalação, configuração, dependências e versões suportadas.
 
+---
+
+<br></br>
+
 ## Licença
 
 A licença e as condições de distribuição devem ser consultadas individualmente em cada módulo.
 
 Algumas extensões podem ser disponibilizadas publicamente, enquanto outras podem possuir condições específicas de uso e distribuição.
+
+---
+
+<br></br>
 
 ## Desenvolvido por
 

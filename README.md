@@ -51,6 +51,10 @@ Os módulos deste repositório podem ser utilizados em diferentes projetos manti
 
 As cópias dos módulos são mantidas dentro dos respectivos projetos para garantir a sua independência e permitir que cada ambiente tenha as funcionalidades básicas necessárias.
 
+---
+
+<br></br>
+
 ## Manutenção e atualizações
 
 Este repositório é a fonte oficial dos módulos desenvolvidos pela Lionn Tecnologia.

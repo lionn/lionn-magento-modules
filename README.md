@@ -91,9 +91,5 @@ Algumas extensões podem ser disponibilizadas publicamente, enquanto outras pode
 
 ## Desenvolvido por
 
-**Lionn Tecnologia**
-
-https://lionn.net
-
-Repositório: https://github.com/lionn
+© Lionn - [ https://www.lionn.net ]
 
